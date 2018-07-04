@@ -61,7 +61,7 @@ html, body {
 .header-search {
     width: 50px;
     height: 30px;
-    background-image: url(assets/icons/search.svg);
+    background-image: url(../icons/search.svg);
     background-size: 14px;
     background-repeat: no-repeat;
     background-position: center;
@@ -251,7 +251,7 @@ html, body {
 .article-comment-icon {
     width: 20px;
     height: 20px;
-    background-image: url('assets/icons/comment_light.svg');
+    background-image: url('../icons/comment_light.svg');
     background-size: 15px;
     background-repeat: no-repeat;
     margin-top: 1px;
@@ -263,7 +263,7 @@ html, body {
     float: left;
     width: 20px;
     height: 20px;
-    background-image: url('assets/icons/star.svg');
+    background-image: url('../icons/star.svg');
     background-position: center;
     background-size: 14px;
     background-repeat: no-repeat;
@@ -271,7 +271,7 @@ html, body {
 
 .halfstar {
     width: 14px;
-    background-image: url('assets/icons/halfstar.svg');
+    background-image: url('../icons/halfstar.svg');
 }
 
 /* ==================================================================================== */
@@ -298,7 +298,7 @@ html, body {
     display: block;
     width: 80px;
     height: 80px;
-    background-image: url('assets/images/ken.jpg');
+    background-image: url('../images/ken.jpg');
     background-size: cover;
     background-position: 0px -3px;
     background-size: cover;
@@ -416,7 +416,7 @@ html, body {
     border-radius: 0 4px 4px 0;
     margin-left: -5px;
     background-color: white;
-    background-image: url('assets/icons/search.svg');
+    background-image: url('../icons/search.svg');
     background-size: 14px;
     background-repeat: no-repeat;
     background-position: center;
@@ -581,7 +581,7 @@ html, body {
     cursor: pointer;
     top: 10px;
     left: 10px;
-    background-image: url('assets/icons/menu.svg');
+    background-image: url('../icons/menu.svg');
     background-size: 18px;
     background-position: center;
     background-repeat: no-repeat;
@@ -626,7 +626,7 @@ html, body {
 }
 
 .mobile-navigation input:checked ~ label {
-    background-image: url('assets/icons/menu_close.svg');
+    background-image: url('../icons/menu_close.svg');
 }
 
 /* ==================================================================================== */
